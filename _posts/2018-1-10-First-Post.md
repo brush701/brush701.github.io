@@ -3,9 +3,9 @@ layout: post
 title: Some introductions are in order
 ---
 
-I've always thought that you can learn a lot about somebody by what they're
-willing to recommend. What content we consume is one matter, but by making a
-recommendation we assume a reputational risk. So what better way to kick this
+I've always thought that you can learn a lot about somebody from what they're
+willing to recommend. What content we consume is one matter, but making a
+recommendation carries a reputational risk. So what better way to kick this
 site off than a few solid recommendations?
 
 #### Fiction
