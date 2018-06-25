@@ -3,7 +3,7 @@ layout: post
 title: What's Old is New Again
 ---
 ![What's old is new
-again](http://richardbenjaminrush.com/images/aol-keywords.png)
+again](http://richardbenjaminrush.com/images/aol_keywords.png)
 
 Google wants to make the App Store a second-class citizen. This much is clear
 from the features the company has been rolling out over the past few months,
