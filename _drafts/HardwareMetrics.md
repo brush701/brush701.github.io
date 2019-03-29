@@ -2,10 +2,13 @@
 layout: post
 title: Hardware Investments
 ---
-Key concerns for hardware companies: 
+Key concern for hardware companies: 
 
-* Capital requirements
-* Margins
+* Scalability:
+    * Capital requirements: do you need outside capital to fund user growth? Working capital? CapEx?
+    * Margins: How will you fund user acquisition?
+    * Supply Chain
+
 
 Everything else is just a driver for these questions. Hardware businesses often require large amounts of capital for two purposes: cap ex and working capital. One of the most significant metrics for understanding the working capital needs of the business is the Cash Conversion Cycle, which is the number of days it takes the company to convert investments in inventory into revenue.
 
@@ -30,9 +33,11 @@ Capital Requirements:
 
 * Are you manufacturing in house or outsourcing? 
     * If in-house, there had better be a very good reason _and_ a plan to keep the required equity investments in line with business milestones/de-risking. Alternative forms of financing, including venture debt, may be appropriate to fund CapEx.
-    * If outsourcing, then you need to understand both MOQ and manufacturer's margin. MOQ is much more important in the short term; margin is more important long-term.
+    * If outsourcing, then you need to understand both minimum order quantities (MOQ) and manufacturer's margin. MOQ is much more important in the short term; margin is more important long-term.
 * Assuming you outsource manufacturing, can your provider drop-ship for you?
     * If yes, what will they charge you for the convenience? 
+    * Will they be producing just-in-time or in batches?
+    * If in batches, who owns the inventory in their facility? (Hint: it's almost certainly you)
 * If you must hold inventory:
     * What is the lead time on inventory from suppliers? Here, we really care about the longest-lead component.
     * How can you manage demand to keep it in line with your ability to fulfill orders?
@@ -45,5 +50,17 @@ Margins:
 * Are there other significant variable costs associated with selling your product that are not part of COGS (ie. commissions, etc)?
 * Can you expect significant volume discounts?
 * How will you handle distribution/fulfillment? How does this scale? 
+
+Scalability is tightly linked to capital intensity, but there are distinct questions to ask here. 
+
+Scalability:
+
+* Which piece of your supply chain is the bottleneck for:
+    * Lead times?
+    * Volumes?
+* When do you expect to exceed the capacity of your bottleneck?
+* How will you increase your capacity when the time comes?
+* How much overhead is required to manage your supply chain? Does your team have the experience to handle it?
+* Is your supply chain international? If so, how much will customs and/or tariffs impact your business?
 
 There are certainly many other significant questions, but these are the primary considerations unique to hardware companies.
