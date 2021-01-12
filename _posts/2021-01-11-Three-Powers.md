@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Banality of Bullet Points 
+title: Three Powers 
 ---
 ![7 Powers](../images/7_Powers.jpg)
 
@@ -16,4 +16,4 @@ It is less immediately obvious how switching costs can drive winner-take-most ou
 
 Helmers' other powers are no less valid than the three I have highlighted here, but they are much less investable at the seed stage. It is fairly obvious why a newly formed company is very unlikely to be able to benefit from Process Power, Branding, or a Cornered Resource. Counter-positioning is a more interesting example. Helmers has described this as his favorite power, and also as the only one that leaves the door open for imitators to follow on. Most significantly, it does not directly reward scale. As such, businesses relying on counter-positioning must find other means to scale quickly. Helmers' chosen case study for this form of power, Vanguard, took more than 20 years to reach escape velocity. Such long incubation periods are simply not suitable for the venture asset class. 
 
-Venture, especially seed-stage venture, is a highly constrained asset class. It demands the nearly-impossible: ridiculous returns in a very short period of time. To have a prayer of achieving this goal, portfolio companies need every advantage that they can get. Businesses that can take advantage of one of these three powers become snowballs rolling down hill, accelerating as they grow.
+Venture, especially seed-stage venture, is a highly constrained asset class. It demands the nearly-impossible: ridiculous returns in a very short period of time. To have a prayer of achieving this goal, portfolio companies need every advantage that they can get. Businesses that can take advantage of one of these three powers become snowballs rolling down hill, accelerating as they grow. 
